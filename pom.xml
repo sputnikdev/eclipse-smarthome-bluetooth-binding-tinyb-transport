@@ -258,9 +258,9 @@
                         <Embed-Dependency>*;scope=compile|runtime;inline=false</Embed-Dependency>
                         <Embed-Directory>lib</Embed-Directory>
                         <Embed-StripGroup>true</Embed-StripGroup>
-                        <Export-Package>org.sputnikdev.bluetooth.manager.transport.tinyb,
+                        <_exportcontents>org.sputnikdev.bluetooth.manager.transport.tinyb,
                             org.sputnikdev.bluetooth.manager.transport.tinyb.activator
-                        </Export-Package>
+                        </_exportcontents>
                     </instructions>
                     <niceManifest>true</niceManifest>
                 </configuration>
