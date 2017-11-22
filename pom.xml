@@ -276,8 +276,7 @@
                         <Embed-Dependency>*;scope=compile|runtime;inline=false</Embed-Dependency>
                         <Embed-Directory>lib</Embed-Directory>
                         <Embed-StripGroup>true</Embed-StripGroup>
-                        <_exportcontents>org.sputnikdev.bluetooth.manager.transport.tinyb,
-                            org.sputnikdev.bluetooth.manager.transport.tinyb.activator
+                        <_exportcontents>org.sputnikdev.esh.binding.bluetooth.transport.tinyb.activator
                         </_exportcontents>
                     </instructions>
                     <niceManifest>true</niceManifest>

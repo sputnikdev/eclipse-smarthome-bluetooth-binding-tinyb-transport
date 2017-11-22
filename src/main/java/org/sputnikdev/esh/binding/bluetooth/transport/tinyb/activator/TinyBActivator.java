@@ -1,4 +1,4 @@
-package org.sputnikdev.bluetooth.manager.transport.tinyb.activator;
+package org.sputnikdev.esh.binding.bluetooth.transport.tinyb.activator;
 
 import org.osgi.framework.BundleContext;
 
